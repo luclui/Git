@@ -6,7 +6,7 @@ Este repositório foi criado como parte do curso de Git e GitHub na DIO. Ele con
 # Documentação
 Aqui estão os links para a documentação oficial de ambas as ferramentas:
 
-- [Documentação do Git](https://- git-scm.com/docs/- git/pt_BR)
+- [Documentação do Git](https://git-scm.com/docs/git/pt_BR)
 - [Documentação do GitHub](https://docs.github.com/pt)
 # Comandos Básicos do Git   
  Aqui está um resumo dos principais comandos do Git utilizados durante o curso:
