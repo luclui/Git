@@ -15,6 +15,7 @@ Aqui estão os links para a documentação oficial de ambas as ferramentas:
 - `git clone [URL]`: Faz o download de um repositório remoto para sua máquina local.
 - `git add [arquivo]`: Adiciona um arquivo específico para a área de stage.
 - `git commit -m "[mensagem]"`: Salva as alterações adicionadas com uma mensagem descritiva.
+- `git commit --amend`: Permite modificar o último commit, alterando a mensagem ou adicionando mudanças adicionais.
 - `git push`: Envia suas alterações locais para o repositório remoto.
 - `git pull`: Atualiza seu repositório local com as últimas alterações do repositório remoto.
 - `git status`: Mostra o status atual do repositório (arquivos modificados, não rastreados etc.).
